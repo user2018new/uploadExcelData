@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "author": "Manoj"
+}
